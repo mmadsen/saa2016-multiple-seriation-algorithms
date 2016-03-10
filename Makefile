@@ -20,4 +20,4 @@ epub:
 
 clean:
 	latexmk -CA
-	rm -rf *.log *.bbl *.blg *.out *.md  *.docx saa2016-seriation-multiple-approaches.tex *.epub
+	rm -rf *.log *.bbl *.blg *.out *.md  *.docx saa2016-seriation-multiple-approaches.tex *.epub saa2016*.md
