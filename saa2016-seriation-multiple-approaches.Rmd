@@ -111,8 +111,83 @@ During the evolution of the model, we record the frequencies of individual varia
 
 Following simulation and data recording, the raw data are processed in ways that mimic the time averaging that occurs in archaeological deposits, and the sampling that archaeologists do when taking surface collections from such aggregated deposits.  This chain of processing is depicted in Figure \ref{img:seriationct-flow}.  First, recorded cultural variants are aggregated for each community across the simulated time that community existed, so that all variant frequencies are time averaged in the manner described and modeled by Premo [-@Premo2014] and Madsen [-@Madsen2012].  Then, from the time averaged data for each community, an assemblage of 500 simulated artifacts is drawn from the raw data.  This has a tendency to represent common variants well, and capture some but not all rare variants.  From this sampled data, we then take a sample of the available communities, since seriations are always performed on a sample of archaeological deposits selected by the archaeologist (whether in rigorous or ad hoc ways).  Finally, we filter the types present in each group of assemblages, to remove those types which are present only in one assemblage (as one would do in a manually constructed seriation), since those types do not contribute to ordering.  
 
-The resulting set of assemblage-level type frequencies were then fed into our IDSS seriation program, asking it to produce both a frequency seriation using unimodality as the ordering criterion, and a continuity seriation, using exact distance minimization as the ordering criterion.  We did this for 50 simulation runs with different parameters across the "lineage splitting" regional model described above, and compared the resulting seriation solutions.  
+The resulting set of assemblage-level type frequencies were then fed into our IDSS seriation program, asking it to produce both a frequency seriation using unimodality as the ordering criterion, and a continuity seriation, using exact distance minimization as the ordering criterion.  We did this for 50 simulation runs with different parameters across the "lineage splitting" regional model described above, and compared the resulting seriation solutions.  We measure whether frequency and continuity solutions are identical by testing whether the solution graphs are isomorphic, which means that the same vertices are connected to the same neighbors by the same edges.  Of the 50 simulation runs examined here, in 80% of cases the continuity and frequency seriations give an exactly identical solution.  Of the remaining non-identical solutions, we find that the differences nearly always involve the repositioning of a single assemblage.  In the next section, we examine such a case in detail to understand what drives such differences when they occur.
 
+## Examining a Solution Which Differs
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{f8a6f378-freq.png}
+\caption{Frequency seriation solution for simulation run f8a6f378 on the "lineage splitting" regional interaction model.}
+\label{img:differing-freq}
+\end{figure}
+
+Of the differing solutions, we selected one (f8a6f378) at random to show the details of how frequency and continuity solutions differ.  Figures \ref{img:differing-freq} and \ref{img:differing-cont} depict the frequency and continuity seriations, respectively, in the form of graphs which connect assemblages which are "adjacent" in the seriation solution.  This makes it easier to see where an assemblage is really part of several solutions, which can indicate lineage splitting or differentiation occurring over space.  We introduced this format for seriation solutions in our recent article on IDSS seriation [@lipomadsendunnell2015].  
+
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{f8a6f378-cont.png}
+\caption{Continuity seriation solution for simulation run f8a6f378 on the "lineage splitting" regional interaction model.}
+\label{img:differing-cont}
+\end{figure}
+
+Although the graphs are laid out slightly differently (as a function of an automated graph layout algorithm), it is apparent that most of the seriation ordering is the same.  Simulated assemblage 954-864 anchors one end of the ordering, while assemblage 112-482 anchors the other.[^5]  Both solutions also show a branch for assemblage 402-995, which belongs to one of the two lineages after the connections between two sets of communities is lost.  It is a single assemblage branch because of the vagaries of sampling assemblages out of the total set of communities in this example.  The main difference between the solutions comes in assemblage 618-780 and where it connects.  In the frequency solution it occurs "inline" while in the continuity solution, interassemblage distance is minimized by removing it to a small branch of its own.  
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{@{}llllllllll@{}}
+\toprule
+Assemblage Name & 6022-0-1767 & 36526 & 36557 & 7005-0-1767 & 7628-0-1767 & 0-9222-3 & 1-0-1767 & 3771 & 6996-4-3 \\ \midrule
+assemblage-954-864  & 10                & 160   & 0     & 49                & 92                & 0           & 0           & 0     & 9         \\
+assemblage-970-448  & 0                 & 155   & 0     & 74                & 128               & 0           & 0           & 0     & 14        \\
+assemblage-618-780  & 123               & 50    & 0     & 164               & 121               & 0           & 13          & 0     & 14        \\
+assemblage-506-308  & 107               & 58    & 0     & 199               & 114               & 0           & 9           & 0     & 13        \\
+assemblage-874-851  & 81                & 66    & 0     & 165               & 0                 & 0           & 162         & 6     & 17        \\
+                    &                   &       &       &                   &                   &             &             &       &           \\
+assemblage-874-851  & 81                & 66    & 0     & 165               & 0                 & 0           & 162         & 6     & 17        \\
+assemblage-655-312  & 0                 & 52    & 16    & 111               & 0                 & 20          & 269         & 6     & 26        \\
+assemblage-1005-552 & 0                 & 53    & 32    & 72                & 0                 & 61          & 182         & 41    & 8         \\
+assemblage-823-113  & 0                 & 145   & 81    & 0                 & 0                 & 64          & 132         & 10    & 14        \\
+assemblage-112-482  & 0                 & 24    & 151   & 0                 & 0                 & 157         & 81          & 49    & 9         \\
+                    &                   &       &       &                   &                   &             &             &       &           \\
+assemblage-874-851  & 81                & 66    & 0     & 165               & 0                 & 0           & 162         & 6     & 17        \\
+assemblage-402-995  & 106               & 65    & 0     & 29                & 0                 & 0           & 192         & 0     & 7         \\ \bottomrule
+\end{tabular}
+\caption{Raw data for frequency seriation for simulation run f8a6f378, grouped into blocks corresponding to the branches of the solution graph}
+\label{f8a6f378-freq-table}
+\end{table}
+
+
+Switching to a more traditional tabular view of the type counts in Tables \ref{f8a6f378-freq-table} and \ref{f8a6f378-cont-table}, several features are apparent.  First, there are apparent violations of unimodality in the frequency seriation.  But given our IDSS algorithm, we calculate a 95% confidence interval around each type count given the total sample size, and thus there are small differences (compared to the larger values) which are not statistically significant.  Second, we can see that continuity solutions allow violations of unimodality (e.g., assemblage 823-113) but come up with the same overall structure.  To us, this shows that unimodality is sufficient but not necessary for using a seriation method to track the spatiotemporal structure of cultural transmission.  
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{@{}llllllllll@{}}
+\toprule
+Assemblage Name & 6022-0-1767 & 36526 & 36557 & 7005-0-1767 & 7628-0-1767 & 0-9222-3 & 1-0-1767 & 3771 & 6996-4-3 \\ \midrule
+assemblage-954-864 & 10 & 160 & 0 & 49 & 92 & 0 & 0 & 0 & 9 \\
+assemblage-970-448 & 0 & 155 & 0 & 74 & 128 & 0 & 0 & 0 & 14 \\
+assemblage-506-308 & 107 & 58 & 0 & 199 & 114 & 0 & 9 & 0 & 13 \\
+assemblage-874-851 & 81 & 66 & 0 & 165 & 0 & 0 & 162 & 6 & 17 \\
+assemblage-655-312 & 0 & 52 & 16 & 111 & 0 & 20 & 269 & 6 & 26 \\
+assemblage-1005-552 & 0 & 53 & 32 & 72 & 0 & 61 & 182 & 41 & 8 \\
+assemblage-823-113 & 0 & 145 & 81 & 0 & 0 & 64 & 132 & 10 & 14 \\
+assemblage-112-482 & 0 & 24 & 151 & 0 & 0 & 157 & 81 & 49 & 9 \\
+ &  &  &  &  &  &  &  &  &  \\
+assemblage-874-851 & 81 & 66 & 0 & 165 & 0 & 0 & 162 & 6 & 17 \\
+assemblage-402-995 & 106 & 65 & 0 & 29 & 0 & 0 & 192 & 0 & 7 \\
+ &  &  &  &  &  &  &  &  &  \\
+assemblage-506-308 & 107 & 58 & 0 & 199 & 114 & 0 & 9 & 0 & 13 \\
+assemblage-618-780 & 123 & 50 & 0 & 164 & 121 & 0 & 13 & 0 & 14 \\ \bottomrule
+\end{tabular}
+\caption{Raw data for continuity seriation for simulation run f8a6f378, grouped into blocks corresponding to the branches of the solution graph}
+\label{f8a6f378-cont-table}
+\end{table}
+
+## Multiple Seriations for Phillips, Ford and Griffin (1951) data
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum viverra est est. Proin eget tellus metus. Aenean ac tortor pharetra libero ultricies sagittis. Nulla facilisi. Cras tincidunt interdum tellus, quis consectetur nunc facilisis nec. Sed fermentum erat a ligula posuere quis semper risus ullamcorper. Morbi vel tincidunt augue. Nam dolor ipsum, sagittis quis dignissim eu, pulvinar sed magna. In interdum magna eu orci facilisis congue. Cras a tellus et lorem sagittis viverra. Donec risus lectus, mollis at dignissim viverra, dapibus a nulla. Vivamus porttitor scelerisque turpis, eget lobortis orci auctor eget. Donec ultricies enim ac augue porttitor convallis. Pellentesque nisl lorem, consequat a facilisis in, ornare sed lorem. In luctus, elit ac mattis dapibus, lacus elit varius tortor, vel sollicitudin massa nisl id massa.  Ut sit amet nibh a sem egestas sollicitudin. Vestibulum scelerisque, dui at tincidunt accumsan, ipsum enim feugiat neque, vel interdum turpis lectus sed nisi. Nullam ultrices sodales sem, et placerat nunc euismod eu. Duis leo lacus, semper quis eleifend vitae, viverra ut nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum eleifend est, id tempor velit viverra sed.
 
 
 
@@ -125,9 +200,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum viverra est 
 
 [^2]:  The SeriationCT software is open source, and is located at [Github](https://github.com/mmadsen/seriationct).  Experiments using it to generate the data analyzed here, and more network models, are described and linked on [Madsen's website and lab notebook](http://notebook.madsenlab.org).  
 
-[^3]:  This model is available for inspection as a set of GML network files in experiment "sc-2" in the [experiment-seriation-classification](https://github.com/mmadsen/experiment-seriation-classification) repository maintained by Madsen.  That experiment focused on differentiating different classes of lineage-splitting or coalescence models through their seriation solutions, and here I focus only on the data resulting the "late lineage splitting" model.  
+[^3]:  This model is available for inspection as a set of GML network files in experiment "sc-2" in the [experiment-seriation-classification](https://github.com/mmadsen/experiment-seriation-classification) repository maintained by Madsen.  That experiment focused on differentiating different classes of lineage-splitting or coalescence models through their seriation solutions, and here I focus only on the data resulting the "early lineage splitting" model.  
 
 [^4]:  The details of the prior parameter distributions are relatively unimportant for purposes of comparing seriation algorithms, but are found in the [experiment-seriation-classification](https://github.com/mmadsen/experiment-seriation-classification) repository under experiment SC-2 in the file "seriationct-priors.json".  
 
-
+[^5]:  Simulated assemblage names here reflect geographic coordinates, since regional interaction models often bias interaction and migration by location or neighborhood.  
 
