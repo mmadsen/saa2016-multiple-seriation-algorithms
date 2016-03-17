@@ -12,7 +12,7 @@ The core of the all seriation techniques are a set of "ordering principles" whic
 \begin{figure}[ht]
 \centering
 \includegraphics[scale=0.6]{seriation-methods.pdf}
-\caption{Dunnell [63] defines seriation to be a set of methods which use historical classes to chronologically order otherwise unordered archaeological assemblages and/or objects. Historical classes are those which display more variability through time than through space. Occurrence seriation uses presence/absence data for each historical class from each assemblage [@Kroeber1916;@Petrie1899aa]. Frequency seriation uses ratio level abundance information for historical classes [@Spier1917;@Ford1935aa;@Ford:1962aa]. Frequency and occurrence seriation techniques can take the form of deterministic algorithms that require an exact match with the unimodal model or probabilistic algorithms that accept departures from an exact fit. Identity approaches employ raw data (whether frequency or occurrence) to perform the ordering. Similarity approaches transform the raw data into a non-unique coefficient (e.g., Brainerd Robinson, squared Euclidean distance); the coefficients then form the basis for ordering.}
+\caption{\citet{Dunnell1981} defines seriation to be a set of methods which use historical classes to chronologically order otherwise unordered archaeological assemblages and/or objects. Historical classes are those which display more variability through time than through space. Occurrence seriation uses presence/absence data for each historical class from each assemblage \citep{Kroeber1916,Petrie:1899aa}. Frequency seriation uses ratio level abundance information for historical classes \citep{Spier1917,Ford:1935aa,Ford:1962aa}. Frequency and occurrence seriation techniques can take the form of deterministic algorithms that require an exact match with the unimodal model or probabilistic algorithms that accept departures from an exact fit. Identity approaches employ raw data (whether frequency or occurrence) to perform the ordering. Similarity approaches transform the raw data into a non-unique coefficient (e.g., Brainerd Robinson, squared Euclidean distance); the coefficients then form the basis for ordering.}
 \label{img:seriation-methods}
 \end{figure}
 
@@ -34,7 +34,7 @@ This compactly describes the "popularity principle," originally articulated by N
 
 ## Unimodality and Cultural Transmission Processes
 
-In most cases (such as the above quote from Phillips, Ford, and Griffin), the popularity principle is simply assumed to hold in culture-historical applications.  It is clear that culture historians assumed that what generates heritable continuity, and thus allows the tracing of chronological relations, is cultural transmission.  As Lyman [-@Lyman2008] documents in careful detail, early 20th century anthropology and archaeology understood and discussed a variety of transmission processes informally, as generating the patterns they studied, even if they used different terms and did not form quantitative models for it.  Rouse [-@Rouse1939], for example, explicitly discussed the diffusion of cultural traits, in terms that we now recognize as a spatiotemporal model of transmission.  Kroeber, the father of frequency seriation, clearly understood the connection between his previous work and trait diffusion [@kroeber1937diffusion]. Deetz and Dethlefsen [-@1965;-@1971] noted the spatial dimension to trait diffusion. There are many more examples [@Lyman2008].
+In most cases (such as the above quote from Phillips, Ford, and Griffin), the popularity principle is simply assumed to hold in culture-historical applications.  It is clear that culture historians assumed that what generates heritable continuity, and thus allows the tracing of chronological relations, is cultural transmission.  As Lyman [-@Lyman2008] documents in careful detail, early 20th century anthropology and archaeology understood and discussed a variety of transmission processes informally, as generating the patterns they studied, even if they used different terms and did not form quantitative models for it.  Rouse [-@Rouse1939], for example, explicitly discussed the diffusion of cultural traits, in terms that we now recognize as a spatiotemporal model of transmission.  Kroeber, the father of frequency seriation, clearly understood the connection between his previous work and trait diffusion [@kroeber1937diffusion]. Deetz and Dethlefsen [-@Deetz1965a;-@Deetz1971] noted the spatial dimension to trait diffusion. There are many more examples [@Lyman2008].
 
 Interest in studying cultural transmission in an explicit way has a long history in archaeology.  Since the 1970s, archaeologists have  worked with models of diffusion, with those models becoming increasingly quantitative, statistical, and even explicitly mathematical [e.g., @ammerman1971measuring].  These models of diffusion, however, tended to be deterministic, especially those stemming from the interdisciplinary literature on the diffusion of innovations [e.g., @Rogers2003]. Deterministic models, however, ignore the essential historically contingent pathways of culture transmission that produce the patterns noted by culture historians as historically significant. More recently archaeologists have become interested in developing models for individual social learning events [e.g., @Mesoudi2008].  Individual social models, however, do not necessarily  "add up" to produce a population level effect, and the latter is what we need to understand in order to solidly ground a seriation ordering algorithm in cultural transmission.  
 
@@ -59,7 +59,7 @@ There are several reasons why we should explore alternatives to unimodality as a
 
 Second, and more importantly from a theoretical perspective, it is important to be able to trace heritable continuity even if does not display a particular type of temporal frequency distribution.  Using traditional type construction methods and the test of historical significance, culture historians were able to find __enough__ conforming types and classes to construct regional chronologies. The goal of culture historians was to build chronologies using the most efficient means possible to do so, not study combinations of trait transmission through time and space. The use of seriation as a method for tracing evolutionary relationships is a more demanding task than establishing rough chronology in a region. Thus, it is worth searching for additional ordering principles that may be useful for seriating more classes of cultural variants. Specifically, there is strong relationship between the number of classes in a seriation, and our ability to map differences across space and time. We need methods that can evaluate arbitrary sets of classes to arrive at the most detailed understanding of cultural transmission landscapes. 
 
-For example, Madsen [@2016] is presently working on classifying regional interaction models by the structural properties they leave behind when cultural transmission is simulated on such regional models and then seriated.  Doing this kind of detailed analysis requires many types and frequently, many assemblages to be successful.  Even if unimodality suffices for rough chronology, additional ordering principles will be highly useful for studying regional interaction and the evolutionary history of technology.  
+For example, Madsen [-@madsenlipo2015b] is presently working on classifying regional interaction models by the structural properties they leave behind when cultural transmission is simulated on such regional models and then seriated.  Doing this kind of detailed analysis requires many types and frequently, many assemblages to be successful.  Even if unimodality suffices for rough chronology, additional ordering principles will be highly useful for studying regional interaction and the evolutionary history of technology.  
 
 A theoretically sound ordering principle for seriation should be derivable from characteristics of the underlying cultural transmission processes that we believe drive the spatiotemporal variation seriation measures.  Formal models of cultural transmission, such as those formulated by Boyd and Richerson, Cavalli-Sforza and Feldman, and borrowed from population genetics [@Boyd1985; @Cavalli-Sforza1981;@Neiman1995] provide a good starting place. Their models incorporate stochastic autoregressive processes in which the probability distribution of outcomes at a given time are dependent upon the outcomes from the immediate past. Mathematically, then we can treat cultural transmission models as Markov processes, usually of first order (i.e., without dependencies on states previous to the immediate past state).  Such models are certainly capable of making large changes in state over short time intervals, but large jumps are rare compared to small changes in state, especially in large populations. This is the reason why we (and culture historians) often have an expectation that cultural transmission has a "gradual" character to it.   
 
@@ -122,8 +122,83 @@ During the evolution of the model, we record the frequencies of individual varia
 
 Following simulation and data recording, the raw data are processed in ways that mimic the time averaging that occurs in archaeological deposits, and the sampling that archaeologists do when taking surface collections from such aggregated deposits.  This chain of processing is depicted in Figure \ref{img:seriationct-flow}.  First, recorded cultural variants are aggregated for each community across the simulated time that community existed, so that all variant frequencies are time averaged in the manner described and modeled by Premo [-@Premo2014] and Madsen [-@Madsen2012].  Then, from the time averaged data for each community, an assemblage of 500 simulated artifacts is drawn from the raw data.  This has a tendency to represent common variants well, and capture some but not all rare variants.  From this sampled data, we then take a sample of the available communities, since seriations are always performed on a sample of archaeological deposits selected by the archaeologist (whether in rigorous or ad hoc ways).  Finally, we filter the types present in each group of assemblages, to remove those types which are present only in one assemblage (as one would do in a manually constructed seriation), since those types do not contribute to ordering.  
 
-The resulting set of assemblage-level type frequencies were then fed into our IDSS seriation program, asking it to produce both a frequency seriation using unimodality as the ordering criterion, and a continuity seriation, using exact distance minimization as the ordering criterion.  We did this for 50 simulation runs with different parameters across the "lineage splitting" regional model described above, and compared the resulting seriation solutions.  
+The resulting set of assemblage-level type frequencies were then fed into our IDSS seriation program, asking it to produce both a frequency seriation using unimodality as the ordering criterion, and a continuity seriation, using exact distance minimization as the ordering criterion.  We did this for 50 simulation runs with different parameters across the "lineage splitting" regional model described above, and compared the resulting seriation solutions.  We measure whether frequency and continuity solutions are identical by testing whether the solution graphs are isomorphic, which means that the same vertices are connected to the same neighbors by the same edges.  Of the 50 simulation runs examined here, in 80% of cases the continuity and frequency seriations give an exactly identical solution.  Of the remaining non-identical solutions, we find that the differences nearly always involve the repositioning of a single assemblage.  In the next section, we examine such a case in detail to understand what drives such differences when they occur.
 
+## Examining a Solution Which Differs
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{f8a6f378-freq.png}
+\caption{Frequency seriation solution for simulation run f8a6f378 on the "lineage splitting" regional interaction model.}
+\label{img:differing-freq}
+\end{figure}
+
+Of the differing solutions, we selected one (f8a6f378) at random to show the details of how frequency and continuity solutions differ.  Figures \ref{img:differing-freq} and \ref{img:differing-cont} depict the frequency and continuity seriations, respectively, in the form of graphs which connect assemblages which are "adjacent" in the seriation solution.  This makes it easier to see where an assemblage is really part of several solutions, which can indicate lineage splitting or differentiation occurring over space.  We introduced this format for seriation solutions in our recent article on IDSS seriation [@lipomadsendunnell2015].  
+
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{f8a6f378-cont.png}
+\caption{Continuity seriation solution for simulation run f8a6f378 on the "lineage splitting" regional interaction model.}
+\label{img:differing-cont}
+\end{figure}
+
+Although the graphs are laid out slightly differently (as a function of an automated graph layout algorithm), it is apparent that most of the seriation ordering is the same.  Simulated assemblage 954-864 anchors one end of the ordering, while assemblage 112-482 anchors the other.[^5]  Both solutions also show a branch for assemblage 402-995, which belongs to one of the two lineages after the connections between two sets of communities is lost.  It is a single assemblage branch because of the vagaries of sampling assemblages out of the total set of communities in this example.  The main difference between the solutions comes in assemblage 618-780 and where it connects.  In the frequency solution it occurs "inline" while in the continuity solution, interassemblage distance is minimized by removing it to a small branch of its own.  
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{@{}llllllllll@{}}
+\toprule
+Assemblage Name & 6022-0-1767 & 36526 & 36557 & 7005-0-1767 & 7628-0-1767 & 0-9222-3 & 1-0-1767 & 3771 & 6996-4-3 \\ \midrule
+assemblage-954-864  & 10                & 160   & 0     & 49                & 92                & 0           & 0           & 0     & 9         \\
+assemblage-970-448  & 0                 & 155   & 0     & 74                & 128               & 0           & 0           & 0     & 14        \\
+assemblage-618-780  & 123               & 50    & 0     & 164               & 121               & 0           & 13          & 0     & 14        \\
+assemblage-506-308  & 107               & 58    & 0     & 199               & 114               & 0           & 9           & 0     & 13        \\
+assemblage-874-851  & 81                & 66    & 0     & 165               & 0                 & 0           & 162         & 6     & 17        \\
+                    &                   &       &       &                   &                   &             &             &       &           \\
+assemblage-874-851  & 81                & 66    & 0     & 165               & 0                 & 0           & 162         & 6     & 17        \\
+assemblage-655-312  & 0                 & 52    & 16    & 111               & 0                 & 20          & 269         & 6     & 26        \\
+assemblage-1005-552 & 0                 & 53    & 32    & 72                & 0                 & 61          & 182         & 41    & 8         \\
+assemblage-823-113  & 0                 & 145   & 81    & 0                 & 0                 & 64          & 132         & 10    & 14        \\
+assemblage-112-482  & 0                 & 24    & 151   & 0                 & 0                 & 157         & 81          & 49    & 9         \\
+                    &                   &       &       &                   &                   &             &             &       &           \\
+assemblage-874-851  & 81                & 66    & 0     & 165               & 0                 & 0           & 162         & 6     & 17        \\
+assemblage-402-995  & 106               & 65    & 0     & 29                & 0                 & 0           & 192         & 0     & 7         \\ \bottomrule
+\end{tabular}
+\caption{Raw data for frequency seriation for simulation run f8a6f378, grouped into blocks corresponding to the branches of the solution graph}
+\label{f8a6f378-freq-table}
+\end{table}
+
+
+Switching to a more traditional tabular view of the type counts in Tables \ref{f8a6f378-freq-table} and \ref{f8a6f378-cont-table}, several features are apparent.  First, there are apparent violations of unimodality in the frequency seriation.  But given our IDSS algorithm, we calculate a 95% confidence interval around each type count given the total sample size, and thus there are small differences (compared to the larger values) which are not statistically significant.  Second, we can see that continuity solutions allow violations of unimodality (e.g., assemblage 823-113) but come up with the same overall structure.  To us, this shows that unimodality is sufficient but not necessary for using a seriation method to track the spatiotemporal structure of cultural transmission.  
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{@{}llllllllll@{}}
+\toprule
+Assemblage Name & 6022-0-1767 & 36526 & 36557 & 7005-0-1767 & 7628-0-1767 & 0-9222-3 & 1-0-1767 & 3771 & 6996-4-3 \\ \midrule
+assemblage-954-864 & 10 & 160 & 0 & 49 & 92 & 0 & 0 & 0 & 9 \\
+assemblage-970-448 & 0 & 155 & 0 & 74 & 128 & 0 & 0 & 0 & 14 \\
+assemblage-506-308 & 107 & 58 & 0 & 199 & 114 & 0 & 9 & 0 & 13 \\
+assemblage-874-851 & 81 & 66 & 0 & 165 & 0 & 0 & 162 & 6 & 17 \\
+assemblage-655-312 & 0 & 52 & 16 & 111 & 0 & 20 & 269 & 6 & 26 \\
+assemblage-1005-552 & 0 & 53 & 32 & 72 & 0 & 61 & 182 & 41 & 8 \\
+assemblage-823-113 & 0 & 145 & 81 & 0 & 0 & 64 & 132 & 10 & 14 \\
+assemblage-112-482 & 0 & 24 & 151 & 0 & 0 & 157 & 81 & 49 & 9 \\
+ &  &  &  &  &  &  &  &  &  \\
+assemblage-874-851 & 81 & 66 & 0 & 165 & 0 & 0 & 162 & 6 & 17 \\
+assemblage-402-995 & 106 & 65 & 0 & 29 & 0 & 0 & 192 & 0 & 7 \\
+ &  &  &  &  &  &  &  &  &  \\
+assemblage-506-308 & 107 & 58 & 0 & 199 & 114 & 0 & 9 & 0 & 13 \\
+assemblage-618-780 & 123 & 50 & 0 & 164 & 121 & 0 & 13 & 0 & 14 \\ \bottomrule
+\end{tabular}
+\caption{Raw data for continuity seriation for simulation run f8a6f378, grouped into blocks corresponding to the branches of the solution graph}
+\label{f8a6f378-cont-table}
+\end{table}
+
+## Multiple Seriations for Phillips, Ford and Griffin (1951) data
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum viverra est est. Proin eget tellus metus. Aenean ac tortor pharetra libero ultricies sagittis. Nulla facilisi. Cras tincidunt interdum tellus, quis consectetur nunc facilisis nec. Sed fermentum erat a ligula posuere quis semper risus ullamcorper. Morbi vel tincidunt augue. Nam dolor ipsum, sagittis quis dignissim eu, pulvinar sed magna. In interdum magna eu orci facilisis congue. Cras a tellus et lorem sagittis viverra. Donec risus lectus, mollis at dignissim viverra, dapibus a nulla. Vivamus porttitor scelerisque turpis, eget lobortis orci auctor eget. Donec ultricies enim ac augue porttitor convallis. Pellentesque nisl lorem, consequat a facilisis in, ornare sed lorem. In luctus, elit ac mattis dapibus, lacus elit varius tortor, vel sollicitudin massa nisl id massa.  Ut sit amet nibh a sem egestas sollicitudin. Vestibulum scelerisque, dui at tincidunt accumsan, ipsum enim feugiat neque, vel interdum turpis lectus sed nisi. Nullam ultrices sodales sem, et placerat nunc euismod eu. Duis leo lacus, semper quis eleifend vitae, viverra ut nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin rutrum eleifend est, id tempor velit viverra sed.
 
 
 
@@ -136,9 +211,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum viverra est 
 
 [^2]:  The SeriationCT software is open source, and is located at [Github](https://github.com/mmadsen/seriationct).  Experiments using it to generate the data analyzed here, and more network models, are described and linked on [Madsen's website and lab notebook](http://notebook.madsenlab.org).  
 
-[^3]:  This model is available for inspection as a set of GML network files in experiment "sc-2" in the [experiment-seriation-classification](https://github.com/mmadsen/experiment-seriation-classification) repository maintained by Madsen.  That experiment focused on differentiating different classes of lineage-splitting or coalescence models through their seriation solutions, and here I focus only on the data resulting the "late lineage splitting" model.  
+[^3]:  This model is available for inspection as a set of GML network files in experiment "sc-2" in the [experiment-seriation-classification](https://github.com/mmadsen/experiment-seriation-classification) repository maintained by Madsen.  That experiment focused on differentiating different classes of lineage-splitting or coalescence models through their seriation solutions, and here I focus only on the data resulting the "early lineage splitting" model.  
 
 [^4]:  The details of the prior parameter distributions are relatively unimportant for purposes of comparing seriation algorithms, but are found in the [experiment-seriation-classification](https://github.com/mmadsen/experiment-seriation-classification) repository under experiment SC-2 in the file "seriationct-priors.json".  
 
-
+[^5]:  Simulated assemblage names here reflect geographic coordinates, since regional interaction models often bias interaction and migration by location or neighborhood.  
 
