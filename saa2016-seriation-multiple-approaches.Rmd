@@ -169,7 +169,7 @@ assemblage-402-995  & 106               & 65    & 0     & 29                & 0 
 \end{table}
 
 
-Viewed in traditional tabular view of the type counts in Tables \ref{f8a6f378-freq-table} and \ref{f8a6f378-cont-table}, several features are apparent.  First, there are apparent violations of unimodality in the frequency seriation.  But given our IDSS algorithm, we calculate a 95% confidence interval around each type count given the total sample size, and thus there are small differences (compared to the larger values) which are not statistically significant.  Second, we can see that continuity solutions allow violations of unimodality (e.g., assemblage 823-113) but come up with the same overall structure.  To us, this shows that unimodality is sufficient but not necessary for using a seriation method to track the spatiotemporal structure of cultural transmission.  
+Viewed in traditional tabular view of the type counts in Tables \ref{f8a6f378-freq-table} and \ref{f8a6f378-cont-table} or as traditional centered bar charts in Figures \ref{img:frequency} and \ref{img:continuity}, several features are apparent.  First, there are apparent violations of unimodality in the frequency seriation.  But given our IDSS algorithm, we calculate a 95% confidence interval around each type count given the total sample size, and thus there are small differences (compared to the larger values) which are not statistically significant.  Second, we can see that continuity solutions allow violations of unimodality (e.g., assemblage 823-113) but come up with the same overall structure.  To us, this shows that unimodality is sufficient but not necessary for using a seriation method to track the spatiotemporal structure of cultural transmission.  
 
 \begin{table}[ht]
 \centering
@@ -195,17 +195,17 @@ assemblage-618-780 & 123 & 50 & 0 & 164 & 121 & 0 & 13 & 0 & 14 \\ \bottomrule
 \label{f8a6f378-cont-table}
 \end{table}
 
-begin{figure}[ht]
+\begin{figure}[ht]
 \centering
 \includegraphics[scale=0.5]{frequency.pdf}
-\caption{Frequency seriation representation of the relative frequencies of type for simulation run f8a6f378 build with the IDSS frequency seriation algorithm. The groups correspond tot he branches of the solution graph.}
+\caption{Centered bar chart representation of the relative frequencies of type for simulation run f8a6f378 built with the IDSS frequency seriation algorithm. The groups correspond to the branches of the solution graph.}
 \label{img:frequency}
 \end{figure}
 
-begin{figure}[ht]
+\begin{figure}[ht]
 \centering
 \includegraphics[scale=0.5]{continuity.pdf}
-\caption{Frequency seriation representation of the relative frequencies of type for simulation run f8a6f378 build with the IDSS continuity seriation algorithm. The groups correspond tot he branches of the solution graph.}
+\caption{Centered bar chart representation of the relative frequencies of type for simulation run f8a6f378 built with the IDSS continuity seriation algorithm. The groups correspond to the branches of the solution graph.}
 \label{img:continuity}
 \end{figure}
 
