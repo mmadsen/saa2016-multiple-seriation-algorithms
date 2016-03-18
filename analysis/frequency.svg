@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="100%"
@@ -38,124 +39,14 @@
      id="namedview10550"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="486.13989"
-     inkscape:cy="-278.12623"
-     inkscape:window-x="20"
-     inkscape:window-y="43"
+     inkscape:cx="497.25568"
+     inkscape:cy="-349.0973"
+     inkscape:window-x="91"
+     inkscape:window-y="44"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg9398" />
   <defs
      id="defs9400" />
-  <text
-     x="-50"
-     y="50"
-     id="text9402">Assemblage_Name</text>
-  <text
-     x="80"
-     y="50"
-     id="text9404">6022505-0-1767197</text>
-  <text
-     x="240.94618"
-     y="51.414215"
-     id="text9406">36526</text>
-  <text
-     x="352.57864"
-     y="50"
-     id="text9408">36557</text>
-  <text
-     x="412.5715"
-     y="48.585785"
-     id="text9410">7005565-0-1767197</text>
-  <text
-     x="554.58868"
-     y="48.585785"
-     id="text9412">7628812-0-1767197</text>
-  <text
-     x="706.50549"
-     y="46.100506"
-     id="text9414">0-9222959-3</text>
-  <text
-     x="806.09631"
-     y="46.686291"
-     id="text9416">1-0-1767197</text>
-  <text
-     x="913.4444"
-     y="45.272076"
-     id="text9418">37715</text>
-  <text
-     x="964.26569"
-     y="45.857861"
-     id="text9420">69968-4-3</text>
-  <text
-     x="-73"
-     y="85"
-     id="text9424">assemblage-954-864</text>
-  <g
-     fill="white"
-     id="freqbar">
-    <rect
-       fill="white"
-       height="15"
-       stroke="black"
-       stroke-width="1"
-       width="6"
-       x="127.0"
-       y="70"
-       id="rect9427" />
-  </g>
-  <g
-     fill="white"
-     id="errorbar">
-    <rect
-       fill="black"
-       height="5"
-       stroke="black"
-       stroke-width="0.5"
-       width="0.5"
-       x="126.5"
-       y="74.5"
-       id="rect9430" />
-    <rect
-       fill="black"
-       height="5"
-       stroke="black"
-       stroke-width="0.5"
-       width="0.5"
-       x="133.0"
-       y="74.5"
-       id="rect9432" />
-  </g>
-  <g
-     id="g9434"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="100"
-       x="280"
-       y="70"
-       id="rect9436"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9438"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="278.5"
-       y="74.5"
-       id="rect9440"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="380"
-       y="74.5"
-       id="rect9442"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
   <g
      fill="white"
      id="g9444">
@@ -190,68 +81,6 @@
        x="530.0"
        y="74.5"
        id="rect9452" />
-  </g>
-  <g
-     id="g9454"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="30"
-       x="715"
-       y="70"
-       id="rect9456"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9458"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="713.5"
-       y="74.5"
-       id="rect9460"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="745"
-       y="74.5"
-       id="rect9462"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g9464"
-     transform="translate(-325.26912,-2.8284272)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="57"
-       x="901.5"
-       y="70"
-       id="rect9466"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9468"
-     transform="translate(-325.26912,-2.8284272)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="2"
-       x="899.5"
-       y="74.5"
-       id="rect9470"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="2"
-       x="958.5"
-       y="74.5"
-       id="rect9472"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -359,41 +188,6 @@
        id="rect9502" />
   </g>
   <g
-     id="g9504"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="5"
-       x="1727.5"
-       y="70"
-       id="rect9506"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9508"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="1726.5"
-       y="74.5"
-       id="rect9510"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1732.5"
-       y="74.5"
-       id="rect9512"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-73"
-     y="105"
-     id="text9516">assemblage-970-448</text>
-  <g
      fill="white"
      id="g9518">
     <rect
@@ -429,37 +223,6 @@
        id="rect9526" />
   </g>
   <g
-     id="g9528"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="83"
-       x="288.5"
-       y="90"
-       id="rect9530"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9532"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="2.5"
-       x="286"
-       y="94.5"
-       id="rect9534"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="2.5"
-       x="371.5"
-       y="94.5"
-       id="rect9536"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
      fill="white"
      id="g9538">
     <rect
@@ -493,68 +256,6 @@
        x="530.0"
        y="94.5"
        id="rect9546" />
-  </g>
-  <g
-     id="g9548"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="39"
-       x="710.5"
-       y="90"
-       id="rect9550"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9552"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="709"
-       y="94.5"
-       id="rect9554"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="749.5"
-       y="94.5"
-       id="rect9556"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g9558"
-     transform="translate(-325.26912,-2.8284272)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="69"
-       x="895.5"
-       y="90"
-       id="rect9560"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9562"
-     transform="translate(-325.26912,-2.8284272)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="894.5"
-       y="94.5"
-       id="rect9564"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="964.5"
-       y="94.5"
-       id="rect9566"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -662,107 +363,6 @@
        id="rect9596" />
   </g>
   <g
-     id="g9598"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="7"
-       x="1726.5"
-       y="90"
-       id="rect9600"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9602"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1726"
-       y="94.5"
-       id="rect9604"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1733.5"
-       y="94.5"
-       id="rect9606"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-73"
-     y="125"
-     id="text9610">assemblage-618-780</text>
-  <g
-     fill="white"
-     id="g9612">
-    <rect
-       fill="white"
-       height="15"
-       stroke="black"
-       stroke-width="1"
-       width="50"
-       x="105.0"
-       y="110"
-       id="rect9614" />
-  </g>
-  <g
-     fill="white"
-     id="g9616">
-    <rect
-       fill="black"
-       height="5"
-       stroke="black"
-       stroke-width="0.5"
-       width="1.5"
-       x="103.5"
-       y="114.5"
-       id="rect9618" />
-    <rect
-       fill="black"
-       height="5"
-       stroke="black"
-       stroke-width="0.5"
-       width="1.5"
-       x="155.0"
-       y="114.5"
-       id="rect9620" />
-  </g>
-  <g
-     id="g9622"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="20"
-       x="320"
-       y="110"
-       id="rect9624"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9626"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="319"
-       y="114.5"
-       id="rect9628"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="340"
-       y="114.5"
-       id="rect9630"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
      fill="white"
      id="g9632">
     <rect
@@ -796,68 +396,6 @@
        x="530.0"
        y="114.5"
        id="rect9640" />
-  </g>
-  <g
-     id="g9642"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="67"
-       x="696.5"
-       y="110"
-       id="rect9644"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9646"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="695"
-       y="114.5"
-       id="rect9648"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="763.5"
-       y="114.5"
-       id="rect9650"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g9652"
-     transform="translate(-325.26912,-2.8284272)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="49"
-       x="905.5"
-       y="110"
-       id="rect9654"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9656"
-     transform="translate(-325.26912,-2.8284272)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="904"
-       y="114.5"
-       id="rect9658"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="954.5"
-       y="114.5"
-       id="rect9660"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -895,37 +433,6 @@
        id="rect9670" />
   </g>
   <g
-     id="g9672"
-     transform="translate(-487.90367,-3.3137083)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="5"
-       x="1327.5"
-       y="110"
-       id="rect9674"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9676"
-     transform="translate(-487.90367,-3.3137083)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1327"
-       y="114.5"
-       id="rect9678"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1332.5"
-       y="114.5"
-       id="rect9680"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
      fill="white"
      id="g9682">
     <rect
@@ -959,107 +466,6 @@
        x="1530.0"
        y="114.5"
        id="rect9690" />
-  </g>
-  <g
-     id="g9692"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="5"
-       x="1727.5"
-       y="110"
-       id="rect9694"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9696"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1727"
-       y="114.5"
-       id="rect9698"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1732.5"
-       y="114.5"
-       id="rect9700"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-73"
-     y="145"
-     id="text9704">assemblage-506-308</text>
-  <g
-     fill="white"
-     id="g9706">
-    <rect
-       fill="white"
-       height="15"
-       stroke="black"
-       stroke-width="1"
-       width="42"
-       x="109.0"
-       y="130"
-       id="rect9708" />
-  </g>
-  <g
-     fill="white"
-     id="g9710">
-    <rect
-       fill="black"
-       height="5"
-       stroke="black"
-       stroke-width="0.5"
-       width="1.5"
-       x="107.5"
-       y="134.5"
-       id="rect9712" />
-    <rect
-       fill="black"
-       height="5"
-       stroke="black"
-       stroke-width="0.5"
-       width="1.5"
-       x="151.0"
-       y="134.5"
-       id="rect9714" />
-  </g>
-  <g
-     id="g9716"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="23"
-       x="318.5"
-       y="130"
-       id="rect9718"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9720"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="317.5"
-       y="134.5"
-       id="rect9722"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="341.5"
-       y="134.5"
-       id="rect9724"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -1097,68 +503,6 @@
        id="rect9734" />
   </g>
   <g
-     id="g9736"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="79"
-       x="690.5"
-       y="130"
-       id="rect9738"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9740"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="2"
-       x="688.5"
-       y="134.5"
-       id="rect9742"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="2"
-       x="769.5"
-       y="134.5"
-       id="rect9744"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g9746"
-     transform="translate(-325.26912,-2.8284272)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="45"
-       x="907.5"
-       y="130"
-       id="rect9748"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9750"
-     transform="translate(-325.26912,-2.8284272)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="906"
-       y="134.5"
-       id="rect9752"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="952.5"
-       y="134.5"
-       id="rect9754"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
      fill="white"
      id="g9756">
     <rect
@@ -1192,37 +536,6 @@
        x="1130.0"
        y="134.5"
        id="rect9764" />
-  </g>
-  <g
-     id="g9766"
-     transform="translate(-487.90367,-3.3137083)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="3"
-       x="1328.5"
-       y="130"
-       id="rect9768"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9770"
-     transform="translate(-487.90367,-3.3137083)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1328"
-       y="134.5"
-       id="rect9772"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1331.5"
-       y="134.5"
-       id="rect9774"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -1260,107 +573,6 @@
        id="rect9784" />
   </g>
   <g
-     id="g9786"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="5"
-       x="1727.5"
-       y="130"
-       id="rect9788"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9790"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1727"
-       y="134.5"
-       id="rect9792"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1732.5"
-       y="134.5"
-       id="rect9794"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-73"
-     y="165"
-     id="text9798">assemblage-874-851</text>
-  <g
-     fill="white"
-     id="g9800">
-    <rect
-       fill="white"
-       height="15"
-       stroke="black"
-       stroke-width="1"
-       width="32"
-       x="114.0"
-       y="150"
-       id="rect9802" />
-  </g>
-  <g
-     fill="white"
-     id="g9804">
-    <rect
-       fill="black"
-       height="5"
-       stroke="black"
-       stroke-width="0.5"
-       width="1.0"
-       x="113.0"
-       y="154.5"
-       id="rect9806" />
-    <rect
-       fill="black"
-       height="5"
-       stroke="black"
-       stroke-width="0.5"
-       width="1.0"
-       x="146.0"
-       y="154.5"
-       id="rect9808" />
-  </g>
-  <g
-     id="g9810"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="26"
-       x="317"
-       y="150"
-       id="rect9812"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9814"
-     transform="translate(-65.053824,1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="316"
-       y="154.5"
-       id="rect9816"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="343"
-       y="154.5"
-       id="rect9818"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
      fill="white"
      id="g9820">
     <rect
@@ -1394,37 +606,6 @@
        x="530.0"
        y="154.5"
        id="rect9828" />
-  </g>
-  <g
-     id="g9830"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="66"
-       x="697"
-       y="150"
-       id="rect9832"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9834"
-     transform="translate(-272.94322,-1.4142136)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="695.5"
-       y="154.5"
-       id="rect9836"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="763"
-       y="154.5"
-       id="rect9838"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -1497,49 +678,6 @@
        id="rect9858" />
   </g>
   <g
-     id="g9860"
-     transform="translate(-487.90367,-3.3137083)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="65"
-       x="1297.5"
-       y="150"
-       id="rect9862"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9864"
-     transform="translate(-487.90367,-3.3137083)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="1296"
-       y="154.5"
-       id="rect9866"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="1362.5"
-       y="154.5"
-       id="rect9868"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g9870"
-     transform="translate(-588.55547,-4.7279223)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="2"
-       x="1529"
-       y="150"
-       id="rect9872"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
      fill="white"
      id="g9874">
     <rect
@@ -1560,103 +698,6 @@
        x="1531.0"
        y="154.5"
        id="rect9878" />
-  </g>
-  <g
-     id="g9880"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="6"
-       x="1727"
-       y="150"
-       id="rect9882"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9884"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="1726"
-       y="154.5"
-       id="rect9886"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1733"
-       y="154.5"
-       id="rect9888"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-73"
-     y="215"
-     id="text9892">assemblage-874-851</text>
-  <g
-     id="g9894"
-     transform="translate(0,30)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="32"
-       x="114"
-       y="170"
-       id="rect9896"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9898"
-     transform="translate(0,30)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="113"
-       y="174.5"
-       id="rect9900"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="146"
-       y="174.5"
-       id="rect9902"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g9904"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="26"
-       x="317"
-       y="170"
-       id="rect9906"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9908"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="316"
-       y="174.5"
-       id="rect9910"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="343"
-       y="174.5"
-       id="rect9912"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -1692,37 +733,6 @@
        x="530.0"
        y="174.5"
        id="rect9922" />
-  </g>
-  <g
-     id="g9924"
-     transform="translate(-272.94322,28.585786)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="66"
-       x="697"
-       y="170"
-       id="rect9926"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9928"
-     transform="translate(-272.94322,28.585786)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="695.5"
-       y="174.5"
-       id="rect9930"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="763"
-       y="174.5"
-       id="rect9932"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -1795,103 +805,6 @@
        id="rect9952" />
   </g>
   <g
-     id="g9954"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="65"
-       x="1297.5"
-       y="170"
-       id="rect9956"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9958"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="1296.5"
-       y="174.5"
-       id="rect9960"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1362.5"
-       y="174.5"
-       id="rect9962"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g9964"
-     transform="translate(-588.55547,-4.7279223)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="2"
-       x="1529"
-       y="170"
-       id="rect9966"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9968"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1528.5"
-       y="174.5"
-       id="rect9970"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1531"
-       y="174.5"
-       id="rect9972"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g9974"
-     transform="translate(-729.73418,-4.1421353)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="6"
-       x="1727"
-       y="170"
-       id="rect9976"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g9978"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1726.5"
-       y="174.5"
-       id="rect9980"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1733"
-       y="174.5"
-       id="rect9982"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-73"
-     y="235"
-     id="text9986">assemblage-655-312</text>
-  <g
      fill="white"
      id="g9988">
     <rect
@@ -1925,99 +838,6 @@
        x="130.0"
        y="194.5"
        id="rect9996" />
-  </g>
-  <g
-     id="g9998"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="20"
-       x="320"
-       y="190"
-       id="rect10000"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10002"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="319"
-       y="194.5"
-       id="rect10004"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="340"
-       y="194.5"
-       id="rect10006"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10008"
-     transform="translate(-149.90664,30)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="6"
-       x="527"
-       y="190"
-       id="rect10010"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10012"
-     transform="translate(-149.90664,30)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="526.5"
-       y="194.5"
-       id="rect10014"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="533"
-       y="194.5"
-       id="rect10016"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10018"
-     transform="translate(-272.94322,28.585786)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="44"
-       x="708"
-       y="190"
-       id="rect10020"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10022"
-     transform="translate(-272.94322,28.585786)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="707"
-       y="194.5"
-       id="rect10024"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="752"
-       y="194.5"
-       id="rect10026"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -2055,134 +875,6 @@
        id="rect10036" />
   </g>
   <g
-     id="g10038"
-     style="fill:#ffffff"
-     transform="translate(-387.49451,26.100505)">
-    <rect
-       height="15"
-       width="8"
-       x="1126"
-       y="190"
-       id="rect10040"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10042"
-     style="fill:#ffffff"
-     transform="translate(-387.49451,26.100505)">
-    <rect
-       height="5"
-       width="0.5"
-       x="1125.5"
-       y="194.5"
-       id="rect10044"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1134"
-       y="194.5"
-       id="rect10046"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10048"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="107"
-       x="1276.5"
-       y="190"
-       id="rect10050"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10052"
-     transform="translate(-487.90367,24.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="1275"
-       y="194.5"
-       id="rect10054"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="1383.5"
-       y="194.5"
-       id="rect10056"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10058"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="2"
-       x="1529"
-       y="190"
-       id="rect10060"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10062"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1528.5"
-       y="194.5"
-       id="rect10064"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1531"
-       y="194.5"
-       id="rect10066"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10068"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="10"
-       x="1725"
-       y="190"
-       id="rect10070"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10072"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1724.5"
-       y="194.5"
-       id="rect10074"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1735"
-       y="194.5"
-       id="rect10076"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-81"
-     y="255"
-     id="text10080">assemblage-1005-552</text>
-  <g
      fill="white"
      id="g10082">
     <rect
@@ -2216,99 +908,6 @@
        x="130.0"
        y="214.5"
        id="rect10090" />
-  </g>
-  <g
-     id="g10092"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="23"
-       x="318.5"
-       y="210"
-       id="rect10094"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10096"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="317.5"
-       y="214.5"
-       id="rect10098"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="341.5"
-       y="214.5"
-       id="rect10100"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10102"
-     transform="translate(-149.90664,30)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="14"
-       x="523"
-       y="210"
-       id="rect10104"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10106"
-     transform="translate(-149.90664,30)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="522"
-       y="214.5"
-       id="rect10108"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="537"
-       y="214.5"
-       id="rect10110"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10112"
-     transform="translate(-272.94322,28.585786)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="32"
-       x="714"
-       y="210"
-       id="rect10114"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10116"
-     transform="translate(-272.94322,28.585786)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="713.5"
-       y="214.5"
-       id="rect10118"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="746"
-       y="214.5"
-       id="rect10120"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -2346,134 +945,6 @@
        id="rect10130" />
   </g>
   <g
-     id="g10132"
-     style="fill:#ffffff"
-     transform="translate(-387.49451,26.100505)">
-    <rect
-       height="15"
-       width="27"
-       x="1116.5"
-       y="210"
-       id="rect10134"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10136"
-     style="fill:#ffffff"
-     transform="translate(-387.49451,26.100505)">
-    <rect
-       height="5"
-       width="1"
-       x="1115.5"
-       y="214.5"
-       id="rect10138"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1143.5"
-       y="214.5"
-       id="rect10140"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10142"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="81"
-       x="1289.5"
-       y="210"
-       id="rect10144"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10146"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="1288"
-       y="214.5"
-       id="rect10148"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="1370.5"
-       y="214.5"
-       id="rect10150"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10152"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="18"
-       x="1521"
-       y="210"
-       id="rect10154"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10156"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="1520"
-       y="214.5"
-       id="rect10158"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1539"
-       y="214.5"
-       id="rect10160"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10162"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="3"
-       x="1728.5"
-       y="210"
-       id="rect10164"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10166"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1728"
-       y="214.5"
-       id="rect10168"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1731.5"
-       y="214.5"
-       id="rect10170"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-73"
-     y="275"
-     id="text10174">assemblage-823-113</text>
-  <g
      fill="white"
      id="g10176">
     <rect
@@ -2507,68 +978,6 @@
        x="130.0"
        y="234.5"
        id="rect10184" />
-  </g>
-  <g
-     id="g10186"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="65"
-       x="297.5"
-       y="230"
-       id="rect10188"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10190"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="296"
-       y="234.5"
-       id="rect10192"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="362.5"
-       y="234.5"
-       id="rect10194"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10196"
-     transform="translate(-149.90664,30)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="36"
-       x="512"
-       y="230"
-       id="rect10198"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10200"
-     transform="translate(-149.90664,30)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="511"
-       y="234.5"
-       id="rect10202"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="548"
-       y="234.5"
-       id="rect10204"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -2641,134 +1050,6 @@
        id="rect10224" />
   </g>
   <g
-     id="g10226"
-     style="fill:#ffffff"
-     transform="translate(-387.49451,26.100505)">
-    <rect
-       height="15"
-       width="28"
-       x="1116"
-       y="230"
-       id="rect10228"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10230"
-     style="fill:#ffffff"
-     transform="translate(-387.49451,26.100505)">
-    <rect
-       height="5"
-       width="1"
-       x="1115"
-       y="234.5"
-       id="rect10232"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1144"
-       y="234.5"
-       id="rect10234"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10236"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="59"
-       x="1300.5"
-       y="230"
-       id="rect10238"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10240"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="1299"
-       y="234.5"
-       id="rect10242"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="1359.5"
-       y="234.5"
-       id="rect10244"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10246"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="4"
-       x="1528"
-       y="230"
-       id="rect10248"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10250"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1527.5"
-       y="234.5"
-       id="rect10252"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1532"
-       y="234.5"
-       id="rect10254"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10256"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="6"
-       x="1727"
-       y="230"
-       id="rect10258"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10260"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1726.5"
-       y="234.5"
-       id="rect10262"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1733"
-       y="234.5"
-       id="rect10264"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-73"
-     y="295"
-     id="text10268">assemblage-112-482</text>
-  <g
      fill="white"
      id="g10270">
     <rect
@@ -2802,68 +1083,6 @@
        x="130.0"
        y="254.5"
        id="rect10278" />
-  </g>
-  <g
-     id="g10280"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="10"
-       x="325"
-       y="250"
-       id="rect10282"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10284"
-     transform="translate(-65.053824,31.414214)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="324.5"
-       y="254.5"
-       id="rect10286"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="335"
-       y="254.5"
-       id="rect10288"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10290"
-     transform="translate(-149.90664,30)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="64"
-       x="498"
-       y="250"
-       id="rect10292"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10294"
-     transform="translate(-149.90664,30)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="496.5"
-       y="254.5"
-       id="rect10296"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="562"
-       y="254.5"
-       id="rect10298"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -2936,196 +1155,6 @@
        id="rect10318" />
   </g>
   <g
-     id="g10320"
-     style="fill:#ffffff"
-     transform="translate(-387.49451,26.100505)">
-    <rect
-       height="15"
-       width="66"
-       x="1097"
-       y="250"
-       id="rect10322"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10324"
-     style="fill:#ffffff"
-     transform="translate(-387.49451,26.100505)">
-    <rect
-       height="5"
-       width="1.5"
-       x="1095.5"
-       y="254.5"
-       id="rect10326"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="1163"
-       y="254.5"
-       id="rect10328"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10330"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="34"
-       x="1313"
-       y="250"
-       id="rect10332"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10334"
-     transform="translate(-487.90367,26.686292)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="1312"
-       y="254.5"
-       id="rect10336"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1347"
-       y="254.5"
-       id="rect10338"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10340"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="20"
-       x="1520"
-       y="250"
-       id="rect10342"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10344"
-     transform="translate(-588.55547,25.272078)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="1519"
-       y="254.5"
-       id="rect10346"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1540"
-       y="254.5"
-       id="rect10348"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10350"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="3"
-       x="1728.5"
-       y="250"
-       id="rect10352"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10354"
-     transform="translate(-729.73418,25.857865)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1728"
-       y="254.5"
-       id="rect10356"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1731.5"
-       y="254.5"
-       id="rect10358"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-71.585785"
-     y="340.15433"
-     id="text10362">assemblage-874-851</text>
-  <g
-     id="g10364"
-     transform="translate(1.4142136,55.154329)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="32"
-       x="114"
-       y="270"
-       id="rect10366"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10368"
-     transform="translate(1.4142136,55.154329)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="113"
-       y="274.5"
-       id="rect10370"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="146"
-       y="274.5"
-       id="rect10372"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10374"
-     transform="translate(-63.63961,56.568542)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="26"
-       x="317"
-       y="270"
-       id="rect10376"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10378"
-     transform="translate(-63.63961,56.568542)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="316"
-       y="274.5"
-       id="rect10380"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="343"
-       y="274.5"
-       id="rect10382"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
      fill="white"
      id="g10384">
     <rect
@@ -3159,37 +1188,6 @@
        x="530.0"
        y="274.5"
        id="rect10392" />
-  </g>
-  <g
-     id="g10394"
-     transform="translate(-271.52901,53.740115)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="66"
-       x="697"
-       y="270"
-       id="rect10396"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10398"
-     transform="translate(-271.52901,53.740115)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="695.5"
-       y="274.5"
-       id="rect10400"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="763"
-       y="274.5"
-       id="rect10402"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -3262,165 +1260,6 @@
        id="rect10422" />
   </g>
   <g
-     id="g10424"
-     transform="translate(-486.48946,51.84062)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="65"
-       x="1297.5"
-       y="270"
-       id="rect10426"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10428"
-     transform="translate(-486.48946,51.84062)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="1296.5"
-       y="274.5"
-       id="rect10430"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1362.5"
-       y="274.5"
-       id="rect10432"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10434"
-     transform="translate(-587.14126,50.426406)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="2"
-       x="1529"
-       y="270"
-       id="rect10436"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10438"
-     transform="translate(-587.14126,50.426406)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1528.5"
-       y="274.5"
-       id="rect10440"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1531"
-       y="274.5"
-       id="rect10442"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10444"
-     transform="translate(-728.31997,51.012193)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="6"
-       x="1727"
-       y="270"
-       id="rect10446"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10448"
-     transform="translate(-728.31997,51.012193)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1"
-       x="1726"
-       y="274.5"
-       id="rect10450"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1"
-       x="1733"
-       y="274.5"
-       id="rect10452"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <text
-     x="-71.585785"
-     y="360.15433"
-     id="text10456">assemblage-402-995</text>
-  <g
-     id="g10458"
-     transform="translate(1.4142136,55.154329)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="53"
-       x="103.5"
-       y="290"
-       id="rect10460"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10462"
-     transform="translate(1.4142136,55.154329)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="102"
-       y="294.5"
-       id="rect10464"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="156.5"
-       y="294.5"
-       id="rect10466"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
-     id="g10468"
-     transform="translate(-63.63961,56.568542)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="32"
-       x="314"
-       y="290"
-       id="rect10470"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10472"
-     transform="translate(-63.63961,56.568542)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="312.5"
-       y="294.5"
-       id="rect10474"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="346"
-       y="294.5"
-       id="rect10476"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
      fill="white"
      id="g10478">
     <rect
@@ -3454,37 +1293,6 @@
        x="530.0"
        y="294.5"
        id="rect10486" />
-  </g>
-  <g
-     id="g10488"
-     transform="translate(-271.52901,53.740115)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="14"
-       x="723"
-       y="290"
-       id="rect10490"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10492"
-     transform="translate(-271.52901,53.740115)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="722.5"
-       y="294.5"
-       id="rect10494"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="737"
-       y="294.5"
-       id="rect10496"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
   </g>
   <g
      fill="white"
@@ -3557,37 +1365,6 @@
        id="rect10516" />
   </g>
   <g
-     id="g10518"
-     transform="translate(-486.48946,51.84062)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
-       width="96"
-       x="1282"
-       y="290"
-       id="rect10520"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10522"
-     transform="translate(-486.48946,51.84062)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="1.5"
-       x="1280.5"
-       y="294.5"
-       id="rect10524"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="1.5"
-       x="1378"
-       y="294.5"
-       id="rect10526"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-  </g>
-  <g
      fill="white"
      id="g10528">
     <rect
@@ -3623,34 +1400,2259 @@
        id="rect10536" />
   </g>
   <g
-     id="g10538"
-     transform="translate(-728.31997,51.012193)"
-     style="fill:#ffffff">
-    <rect
-       height="15"
+     id="g16451">
+    <text
+       id="text9402"
+       y="50"
+       x="-50">Assemblage_Name</text>
+    <text
+       id="text9404"
+       y="50"
+       x="80">6022505-0-1767197</text>
+    <text
+       id="text9406"
+       y="51.414215"
+       x="240.94618">36526</text>
+    <text
+       id="text9408"
+       y="50"
+       x="352.57864">36557</text>
+    <text
+       id="text9410"
+       y="48.585785"
+       x="412.5715">7005565-0-1767197</text>
+    <text
+       id="text9412"
+       y="48.585785"
+       x="554.58868">7628812-0-1767197</text>
+    <text
+       id="text9414"
+       y="46.100506"
+       x="706.50549">0-9222959-3</text>
+    <text
+       id="text9416"
+       y="46.686291"
+       x="806.09631">1-0-1767197</text>
+    <text
+       id="text9418"
+       y="45.272076"
+       x="913.4444">37715</text>
+    <text
+       id="text9420"
+       y="45.857861"
+       x="964.26569">69968-4-3</text>
+    <text
+       id="text9424"
+       y="85"
+       x="-73">assemblage-954-864</text>
+    <g
+       id="freqbar"
+       style="fill:#ffffff">
+      <rect
+         id="rect9427"
+         y="70"
+         x="127"
+         width="6"
+         height="15"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1" />
+    </g>
+    <g
+       id="errorbar"
+       style="fill:#ffffff">
+      <rect
+         id="rect9430"
+         y="74.5"
+         x="126.5"
+         width="0.5"
+         height="5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+      <rect
+         id="rect9432"
+         y="74.5"
+         x="133"
+         width="0.5"
+         height="5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9434">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9436"
+         y="70"
+         x="280"
+         width="100"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9438">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9440"
+         y="74.5"
+         x="278.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9442"
+         y="74.5"
+         x="380"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9454">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9456"
+         y="70"
+         x="715"
+         width="30"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9458">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9460"
+         y="74.5"
+         x="713.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9462"
+         y="74.5"
+         x="745"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-325.26912,-2.8284272)"
+       id="g9464">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9466"
+         y="70"
+         x="901.5"
+         width="57"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-325.26912,-2.8284272)"
+       id="g9468">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9470"
+         y="74.5"
+         x="899.5"
+         width="2"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9472"
+         y="74.5"
+         x="958.5"
+         width="2"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9504">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9506"
+         y="70"
+         x="1727.5"
+         width="5"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9508">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9510"
+         y="74.5"
+         x="1726.5"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9512"
+         y="74.5"
+         x="1732.5"
+         width="1"
+         height="5" />
+    </g>
+    <text
+       id="text9516"
+       y="105"
+       x="-73">assemblage-970-448</text>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9528">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9530"
+         y="90"
+         x="288.5"
+         width="83"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9532">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9534"
+         y="94.5"
+         x="286"
+         width="2.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9536"
+         y="94.5"
+         x="371.5"
+         width="2.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9548">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9550"
+         y="90"
+         x="710.5"
+         width="39"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9552">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9554"
+         y="94.5"
+         x="709"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9556"
+         y="94.5"
+         x="749.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-325.26912,-2.8284272)"
+       id="g9558">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9560"
+         y="90"
+         x="895.5"
+         width="69"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-325.26912,-2.8284272)"
+       id="g9562">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9564"
+         y="94.5"
+         x="894.5"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9566"
+         y="94.5"
+         x="964.5"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9598">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9600"
+         y="90"
+         x="1726.5"
+         width="7"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9602">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9604"
+         y="94.5"
+         x="1726"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9606"
+         y="94.5"
+         x="1733.5"
+         width="0.5"
+         height="5" />
+    </g>
+    <text
+       id="text9610"
+       y="125"
+       x="-73">assemblage-618-780</text>
+    <g
+       id="g9612"
+       style="fill:#ffffff">
+      <rect
+         id="rect9614"
+         y="110"
+         x="105"
+         width="50"
+         height="15"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1" />
+    </g>
+    <g
+       id="g9616"
+       style="fill:#ffffff">
+      <rect
+         id="rect9618"
+         y="114.5"
+         x="103.5"
+         width="1.5"
+         height="5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+      <rect
+         id="rect9620"
+         y="114.5"
+         x="155"
+         width="1.5"
+         height="5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9622">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9624"
+         y="110"
+         x="320"
+         width="20"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9626">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9628"
+         y="114.5"
+         x="319"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9630"
+         y="114.5"
+         x="340"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9642">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9644"
+         y="110"
+         x="696.5"
+         width="67"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9646">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9648"
+         y="114.5"
+         x="695"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9650"
+         y="114.5"
+         x="763.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-325.26912,-2.8284272)"
+       id="g9652">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9654"
+         y="110"
+         x="905.5"
+         width="49"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-325.26912,-2.8284272)"
+       id="g9656">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9658"
+         y="114.5"
+         x="904"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9660"
+         y="114.5"
+         x="954.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,-3.3137083)"
+       id="g9672">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9674"
+         y="110"
+         x="1327.5"
+         width="5"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,-3.3137083)"
+       id="g9676">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9678"
+         y="114.5"
+         x="1327"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9680"
+         y="114.5"
+         x="1332.5"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9692">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9694"
+         y="110"
+         x="1727.5"
+         width="5"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9696">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9698"
+         y="114.5"
+         x="1727"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9700"
+         y="114.5"
+         x="1732.5"
+         width="0.5"
+         height="5" />
+    </g>
+    <text
+       id="text9704"
+       y="145"
+       x="-73">assemblage-506-308</text>
+    <g
+       id="g9706"
+       style="fill:#ffffff">
+      <rect
+         id="rect9708"
+         y="130"
+         x="109"
+         width="42"
+         height="15"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1" />
+    </g>
+    <g
+       id="g9710"
+       style="fill:#ffffff">
+      <rect
+         id="rect9712"
+         y="134.5"
+         x="107.5"
+         width="1.5"
+         height="5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+      <rect
+         id="rect9714"
+         y="134.5"
+         x="151"
+         width="1.5"
+         height="5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9716">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9718"
+         y="130"
+         x="318.5"
+         width="23"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9720">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9722"
+         y="134.5"
+         x="317.5"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9724"
+         y="134.5"
+         x="341.5"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9736">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9738"
+         y="130"
+         x="690.5"
+         width="79"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9740">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9742"
+         y="134.5"
+         x="688.5"
+         width="2"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9744"
+         y="134.5"
+         x="769.5"
+         width="2"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-325.26912,-2.8284272)"
+       id="g9746">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9748"
+         y="130"
+         x="907.5"
+         width="45"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-325.26912,-2.8284272)"
+       id="g9750">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9752"
+         y="134.5"
+         x="906"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9754"
+         y="134.5"
+         x="952.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,-3.3137083)"
+       id="g9766">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9768"
+         y="130"
+         x="1328.5"
+         width="3"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,-3.3137083)"
+       id="g9770">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9772"
+         y="134.5"
+         x="1328"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9774"
+         y="134.5"
+         x="1331.5"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9786">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9788"
+         y="130"
+         x="1727.5"
+         width="5"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9790">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9792"
+         y="134.5"
+         x="1727"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9794"
+         y="134.5"
+         x="1732.5"
+         width="0.5"
+         height="5" />
+    </g>
+    <text
+       id="text9798"
+       y="165"
+       x="-73">assemblage-874-851</text>
+    <g
+       id="g9800"
+       style="fill:#ffffff">
+      <rect
+         id="rect9802"
+         y="150"
+         x="114"
+         width="32"
+         height="15"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1" />
+    </g>
+    <g
+       id="g9804"
+       style="fill:#ffffff">
+      <rect
+         id="rect9806"
+         y="154.5"
+         x="113"
+         width="1"
+         height="5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+      <rect
+         id="rect9808"
+         y="154.5"
+         x="146"
+         width="1"
+         height="5"
+         style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9810">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9812"
+         y="150"
+         x="317"
+         width="26"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,1.4142136)"
+       id="g9814">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9816"
+         y="154.5"
+         x="316"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9818"
+         y="154.5"
+         x="343"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9830">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9832"
+         y="150"
+         x="697"
+         width="66"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,-1.4142136)"
+       id="g9834">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9836"
+         y="154.5"
+         x="695.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9838"
+         y="154.5"
+         x="763"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,-3.3137083)"
+       id="g9860">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9862"
+         y="150"
+         x="1297.5"
+         width="65"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,-3.3137083)"
+       id="g9864">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9866"
+         y="154.5"
+         x="1296"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9868"
+         y="154.5"
+         x="1362.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,-4.7279223)"
+       id="g9870">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9872"
+         y="150"
+         x="1529"
+         width="2"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9880">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9882"
+         y="150"
+         x="1727"
+         width="6"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9884">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9886"
+         y="154.5"
+         x="1726"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9888"
+         y="154.5"
+         x="1733"
+         width="1"
+         height="5" />
+    </g>
+    <text
+       id="text9892"
+       y="215"
+       x="-73">assemblage-874-851</text>
+    <g
+       style="fill:#ffffff"
+       transform="translate(0,30)"
+       id="g9894">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9896"
+         y="170"
+         x="114"
+         width="32"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(0,30)"
+       id="g9898">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9900"
+         y="174.5"
+         x="113"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9902"
+         y="174.5"
+         x="146"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g9904">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9906"
+         y="170"
+         x="317"
+         width="26"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g9908">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9910"
+         y="174.5"
+         x="316"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9912"
+         y="174.5"
+         x="343"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,28.585786)"
+       id="g9924">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9926"
+         y="170"
+         x="697"
+         width="66"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,28.585786)"
+       id="g9928">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9930"
+         y="174.5"
+         x="695.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9932"
+         y="174.5"
+         x="763"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g9954">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9956"
+         y="170"
+         x="1297.5"
+         width="65"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g9958">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9960"
+         y="174.5"
+         x="1296.5"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9962"
+         y="174.5"
+         x="1362.5"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,-4.7279223)"
+       id="g9964">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9966"
+         y="170"
+         x="1529"
+         width="2"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g9968">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9970"
+         y="174.5"
+         x="1528.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9972"
+         y="174.5"
+         x="1531"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,-4.1421353)"
+       id="g9974">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect9976"
+         y="170"
+         x="1727"
+         width="6"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g9978">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9980"
+         y="174.5"
+         x="1726.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect9982"
+         y="174.5"
+         x="1733"
+         width="0.5"
+         height="5" />
+    </g>
+    <text
+       id="text9986"
+       y="235"
+       x="-73">assemblage-655-312</text>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g9998">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10000"
+         y="190"
+         x="320"
+         width="20"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g10002">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10004"
+         y="194.5"
+         x="319"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10006"
+         y="194.5"
+         x="340"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-149.90664,30)"
+       id="g10008">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10010"
+         y="190"
+         x="527"
+         width="6"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-149.90664,30)"
+       id="g10012">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10014"
+         y="194.5"
+         x="526.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10016"
+         y="194.5"
+         x="533"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,28.585786)"
+       id="g10018">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10020"
+         y="190"
+         x="708"
+         width="44"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,28.585786)"
+       id="g10022">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10024"
+         y="194.5"
+         x="707"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10026"
+         y="194.5"
+         x="752"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       transform="translate(-387.49451,26.100505)"
+       style="fill:#ffffff"
+       id="g10038">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10040"
+         y="190"
+         x="1126"
+         width="8"
+         height="15" />
+    </g>
+    <g
+       transform="translate(-387.49451,26.100505)"
+       style="fill:#ffffff"
+       id="g10042">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10044"
+         y="194.5"
+         x="1125.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10046"
+         y="194.5"
+         x="1134"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g10048">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10050"
+         y="190"
+         x="1276.5"
+         width="107"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,24.686292)"
+       id="g10052">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10054"
+         y="194.5"
+         x="1275"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10056"
+         y="194.5"
+         x="1383.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g10058">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10060"
+         y="190"
+         x="1529"
+         width="2"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g10062">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10064"
+         y="194.5"
+         x="1528.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10066"
+         y="194.5"
+         x="1531"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g10068">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10070"
+         y="190"
+         x="1725"
+         width="10"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g10072">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10074"
+         y="194.5"
+         x="1724.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10076"
+         y="194.5"
+         x="1735"
+         width="0.5"
+         height="5" />
+    </g>
+    <text
+       id="text10080"
+       y="255"
+       x="-81">assemblage-1005-552</text>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g10092">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10094"
+         y="210"
+         x="318.5"
+         width="23"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g10096">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10098"
+         y="214.5"
+         x="317.5"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10100"
+         y="214.5"
+         x="341.5"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-149.90664,30)"
+       id="g10102">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10104"
+         y="210"
+         x="523"
+         width="14"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-149.90664,30)"
+       id="g10106">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10108"
+         y="214.5"
+         x="522"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10110"
+         y="214.5"
+         x="537"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,28.585786)"
+       id="g10112">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10114"
+         y="210"
+         x="714"
+         width="32"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-272.94322,28.585786)"
+       id="g10116">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10118"
+         y="214.5"
+         x="713.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10120"
+         y="214.5"
+         x="746"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       transform="translate(-387.49451,26.100505)"
+       style="fill:#ffffff"
+       id="g10132">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10134"
+         y="210"
+         x="1116.5"
+         width="27"
+         height="15" />
+    </g>
+    <g
+       transform="translate(-387.49451,26.100505)"
+       style="fill:#ffffff"
+       id="g10136">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10138"
+         y="214.5"
+         x="1115.5"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10140"
+         y="214.5"
+         x="1143.5"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g10142">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10144"
+         y="210"
+         x="1289.5"
+         width="81"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g10146">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10148"
+         y="214.5"
+         x="1288"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10150"
+         y="214.5"
+         x="1370.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g10152">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10154"
+         y="210"
+         x="1521"
+         width="18"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g10156">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10158"
+         y="214.5"
+         x="1520"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10160"
+         y="214.5"
+         x="1539"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g10162">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10164"
+         y="210"
+         x="1728.5"
+         width="3"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g10166">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10168"
+         y="214.5"
+         x="1728"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10170"
+         y="214.5"
+         x="1731.5"
+         width="0.5"
+         height="5" />
+    </g>
+    <text
+       id="text10174"
+       y="275"
+       x="-73">assemblage-823-113</text>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g10186">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10188"
+         y="230"
+         x="297.5"
+         width="65"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g10190">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10192"
+         y="234.5"
+         x="296"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10194"
+         y="234.5"
+         x="362.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-149.90664,30)"
+       id="g10196">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10198"
+         y="230"
+         x="512"
+         width="36"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-149.90664,30)"
+       id="g10200">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10202"
+         y="234.5"
+         x="511"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10204"
+         y="234.5"
+         x="548"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       transform="translate(-387.49451,26.100505)"
+       style="fill:#ffffff"
+       id="g10226">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10228"
+         y="230"
+         x="1116"
+         width="28"
+         height="15" />
+    </g>
+    <g
+       transform="translate(-387.49451,26.100505)"
+       style="fill:#ffffff"
+       id="g10230">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10232"
+         y="234.5"
+         x="1115"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10234"
+         y="234.5"
+         x="1144"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g10236">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10238"
+         y="230"
+         x="1300.5"
+         width="59"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g10240">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10242"
+         y="234.5"
+         x="1299"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10244"
+         y="234.5"
+         x="1359.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g10246">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10248"
+         y="230"
+         x="1528"
+         width="4"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g10250">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10252"
+         y="234.5"
+         x="1527.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10254"
+         y="234.5"
+         x="1532"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g10256">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10258"
+         y="230"
+         x="1727"
+         width="6"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g10260">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10262"
+         y="234.5"
+         x="1726.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10264"
+         y="234.5"
+         x="1733"
+         width="0.5"
+         height="5" />
+    </g>
+    <text
+       id="text10268"
+       y="295"
+       x="-73">assemblage-112-482</text>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g10280">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10282"
+         y="250"
+         x="325"
+         width="10"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-65.053824,31.414214)"
+       id="g10284">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10286"
+         y="254.5"
+         x="324.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10288"
+         y="254.5"
+         x="335"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-149.90664,30)"
+       id="g10290">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10292"
+         y="250"
+         x="498"
+         width="64"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-149.90664,30)"
+       id="g10294">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10296"
+         y="254.5"
+         x="496.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10298"
+         y="254.5"
+         x="562"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       transform="translate(-387.49451,26.100505)"
+       style="fill:#ffffff"
+       id="g10320">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10322"
+         y="250"
+         x="1097"
+         width="66"
+         height="15" />
+    </g>
+    <g
+       transform="translate(-387.49451,26.100505)"
+       style="fill:#ffffff"
+       id="g10324">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10326"
+         y="254.5"
+         x="1095.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10328"
+         y="254.5"
+         x="1163"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g10330">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10332"
+         y="250"
+         x="1313"
+         width="34"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-487.90367,26.686292)"
+       id="g10334">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10336"
+         y="254.5"
+         x="1312"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10338"
+         y="254.5"
+         x="1347"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g10340">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10342"
+         y="250"
+         x="1520"
+         width="20"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-588.55547,25.272078)"
+       id="g10344">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10346"
+         y="254.5"
+         x="1519"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10348"
+         y="254.5"
+         x="1540"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g10350">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10352"
+         y="250"
+         x="1728.5"
+         width="3"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-729.73418,25.857865)"
+       id="g10354">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10356"
+         y="254.5"
+         x="1728"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10358"
+         y="254.5"
+         x="1731.5"
+         width="0.5"
+         height="5" />
+    </g>
+    <text
+       id="text10362"
+       y="340.15433"
+       x="-71.585785">assemblage-874-851</text>
+    <g
+       style="fill:#ffffff"
+       transform="translate(1.4142136,55.154329)"
+       id="g10364">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10366"
+         y="270"
+         x="114"
+         width="32"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(1.4142136,55.154329)"
+       id="g10368">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10370"
+         y="274.5"
+         x="113"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10372"
+         y="274.5"
+         x="146"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-63.63961,56.568542)"
+       id="g10374">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10376"
+         y="270"
+         x="317"
+         width="26"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-63.63961,56.568542)"
+       id="g10378">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10380"
+         y="274.5"
+         x="316"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10382"
+         y="274.5"
+         x="343"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-271.52901,53.740115)"
+       id="g10394">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10396"
+         y="270"
+         x="697"
+         width="66"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-271.52901,53.740115)"
+       id="g10398">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10400"
+         y="274.5"
+         x="695.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10402"
+         y="274.5"
+         x="763"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-486.48946,51.84062)"
+       id="g10424">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10426"
+         y="270"
+         x="1297.5"
+         width="65"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-486.48946,51.84062)"
+       id="g10428">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10430"
+         y="274.5"
+         x="1296.5"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10432"
+         y="274.5"
+         x="1362.5"
+         width="1"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-587.14126,50.426406)"
+       id="g10434">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10436"
+         y="270"
+         x="1529"
+         width="2"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-587.14126,50.426406)"
+       id="g10438">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10440"
+         y="274.5"
+         x="1528.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10442"
+         y="274.5"
+         x="1531"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-728.31997,51.012193)"
+       id="g10444">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10446"
+         y="270"
+         x="1727"
+         width="6"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-728.31997,51.012193)"
+       id="g10448">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10450"
+         y="274.5"
+         x="1726"
+         width="1"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10452"
+         y="274.5"
+         x="1733"
+         width="1"
+         height="5" />
+    </g>
+    <text
+       id="text10456"
+       y="360.15433"
+       x="-71.585785">assemblage-402-995</text>
+    <g
+       style="fill:#ffffff"
+       transform="translate(1.4142136,55.154329)"
+       id="g10458">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10460"
+         y="290"
+         x="103.5"
+         width="53"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(1.4142136,55.154329)"
+       id="g10462">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10464"
+         y="294.5"
+         x="102"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10466"
+         y="294.5"
+         x="156.5"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-63.63961,56.568542)"
+       id="g10468">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10470"
+         y="290"
+         x="314"
+         width="32"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-63.63961,56.568542)"
+       id="g10472">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10474"
+         y="294.5"
+         x="312.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10476"
+         y="294.5"
+         x="346"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-271.52901,53.740115)"
+       id="g10488">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10490"
+         y="290"
+         x="723"
+         width="14"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-271.52901,53.740115)"
+       id="g10492">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10494"
+         y="294.5"
+         x="722.5"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10496"
+         y="294.5"
+         x="737"
+         width="0.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-486.48946,51.84062)"
+       id="g10518">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10520"
+         y="290"
+         x="1282"
+         width="96"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-486.48946,51.84062)"
+       id="g10522">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10524"
+         y="294.5"
+         x="1280.5"
+         width="1.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10526"
+         y="294.5"
+         x="1378"
+         width="1.5"
+         height="5" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-728.31997,51.012193)"
+       id="g10538">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1"
+         id="rect10540"
+         y="290"
+         x="1728.5"
+         width="3"
+         height="15" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="translate(-728.31997,51.012193)"
+       id="g10542">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10544"
+         y="294.5"
+         x="1728"
+         width="0.5"
+         height="5" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.5"
+         id="rect10546"
+         y="294.5"
+         x="1731.5"
+         width="0.5"
+         height="5" />
+    </g>
+    <image
        width="3"
-       x="1728.5"
-       y="290"
-       id="rect10540"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  </g>
-  <g
-     id="g10542"
-     transform="translate(-728.31997,51.012193)"
-     style="fill:#ffffff">
-    <rect
-       height="5"
-       width="0.5"
-       x="1728"
-       y="294.5"
-       id="rect10544"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
-    <rect
-       height="5"
-       width="0.5"
-       x="1731.5"
-       y="294.5"
-       id="rect10546"
-       style="fill:#000000;stroke:#000000;stroke-width:0.5" />
+       height="16"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAQCAIAAABcCFLdAAAAA3NCSVQICAjb4U/gAAAAGElEQVQI
+mWNgQAb///9nYGBggvMHioUAALocAxjqNjNXAAAAAElFTkSuQmCC
+"
+       id="image16427"
+       x="939.5"
+       y="195" />
+    <image
+       width="7"
+       height="16"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAQCAIAAABV4/KnAAAAA3NCSVQICAjb4U/gAAAAHklEQVQY
+lWNgwAYYGRgY/v//jyLEyMiEVe2oKD4AAOOKAxxXbYkaAAAAAElFTkSuQmCC
+"
+       id="image16448"
+       x="996.5"
+       y="194.5" />
   </g>
 </svg>
