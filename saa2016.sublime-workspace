@@ -35,6 +35,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "saa2016-seriation-multiple-approaches.Rmd",
+			"settings":
+			{
+				"buffer_size": 52800,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xelatex-template.tex",
+			"settings":
+			{
+				"buffer_size": 5778,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -89,6 +105,12 @@
 	],
 	"file_history":
 	[
+		"/Users/mark/Dropbox/Research/diss/manuscripts/saa2016-seriation-multiple-approaches/saa2016-seriation-multiple-approaches.Rmd",
+		"/Users/mark/Dropbox/Research/diss/manuscripts/saa2016-seriation-multiple-approaches/xelatex-template.tex",
+		"/Users/mark/Dropbox/Research/diss/manuscripts/saa2016-seriation-multiple-approaches/continuity.py",
+		"/Users/mark/Dropbox/Research/diss/manuscripts/saa2016-seriation-multiple-approaches/README.md",
+		"/Users/mark/Dropbox/Research/diss/manuscripts/saa2016-seriation-multiple-approaches/saa2016-seriation-multiple-approaches.tex",
+		"/Users/mark/Dropbox/Research/diss/manuscripts/saa2016-seriation-multiple-approaches/saa2016-seriation-multiple-approaches.bib",
 		"/Users/mark/local-research/diss/experiments/experiment-seriation-classification/experiments/sc-4/bin/export-data.sh",
 		"/Users/mark/local-research/diss/experiments/experiment-seriation-classification/experiments/sc-4/bin/build-simulations.sh",
 		"/Users/mark/local-research/diss/experiments/experiment-seriation-classification/template/bin/run-simulations-gridengine.sh",
@@ -210,13 +232,7 @@
 		"/Users/mark/Dropbox/Research/websites/lnraw/_posts/2014-07-09-semanticaxelrod-review-revisions.md",
 		"/Users/mark/Dropbox/Research/websites/lnraw/_drafts/ctmixtures-timeaveraging.md",
 		"/Users/mark/Dropbox/Research/websites/lnraw/_posts/2013-08-11-semantic-ct-models-2007-notes.md",
-		"/Users/mark/Dropbox/Research/websites/lnraw/_posts/2014-06-20-spatiotemporal-review.md",
-		"/Users/mark/Dropbox/Charitable/Seattle Arts and Lectures/analysis/donor-analysis/template.tex",
-		"/Users/mark/Dropbox/Research/websites/lnraw/publications.html",
-		"/Users/mark/Dropbox/Research/websites/lnraw/_posts/2011-01-11-he-and-stone.md",
-		"/Users/mark/Dropbox/Research/websites/lnraw/_posts/2011-02-23-renormalization.md",
-		"/Users/mark/Dropbox/Research/websites/lnraw/_posts/2011-06-24-ct-tuplespace-artfacts.md",
-		"/Users/mark/Dropbox/Research/websites/lnraw/_posts/2012-06-14-renormalization-theory-archy.md"
+		"/Users/mark/Dropbox/Research/websites/lnraw/_posts/2014-06-20-spatiotemporal-review.md"
 	],
 	"find":
 	{
@@ -234,6 +250,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".)}",
 			"-linear",
 			"sc-nearest-neighbor-1",
 			"gc-simple-linear-sample-1",
@@ -281,8 +298,65 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "saa2016-seriation-multiple-approaches.Rmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7369,
+								7369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 647.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "xelatex-template.tex",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -353,7 +427,7 @@
 		[
 			[
 				"",
-				"~/src/neutral-model-cpp/neutral-model-cpp.sublime-project"
+				"~/Dropbox/Research/websites/lnraw/lnraw.sublime-project"
 			]
 		],
 		"width": 380.0
